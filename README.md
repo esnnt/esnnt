@@ -26,15 +26,3 @@ Unity motoru ve C# dili ile oyun geliştirme üzerine çalışıyorum. Burası k
 </div>
 
 ---
-
-<div align="center">
-  <p>Gelişim sürecimi takip etmek istersen:</p>
-  <a href="https://www.youtube.com/@pelenium">
-    <img src="https://img.shields.io/badge/YouTube-Kanalıma_Göz_At-FF0000?style=flat-square&logo=youtube&logoColor=white" />
-  </a>
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=esnnt&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-</div>
