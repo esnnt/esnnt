@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/NvMj5K17H8Ua4/giphy.gif" width="100%" height="200" style="object-fit:cover" />
-</div>
+
 
 ### Selam, ben Esin! 👋
 
@@ -13,7 +11,6 @@ Unity motoru ve C# dili ile oyun geliştirme üzerine çalışıyorum. Burası k
 Şu ana kadar geliştirdiğim ve üzerinde çalıştığım bazı projeler:
 
 * ⚽ **SoccerStars:** Oyun mantığını kurduğum, futbol mekanikleri üzerine basit bir oyun çalışması.
-* 👕 **Karakter Özelleştirme Sistemi (WIP):** Unity üzerinde geliştirdiğim, Roblox tarzı karakter giydirme ve düzenleme sistemi.
 * 🍽️ **Masa Rezervasyon & Mini Oyunlar:** C# hakimiyetimi geliştirmek için yazdığım konsol tabanlı algoritma ve yönetim sistemleri.
 * 🌐 **Portfolio:** Kendi çalışmalarımı sergilemek için hazırladığım web arayüzü.
 
