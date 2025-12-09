@@ -12,7 +12,7 @@ Unity motoru ve C# dili ile oyun geliştirme üzerine çalışıyorum. Burası k
 
 * ⚽ **SoccerStars:** Oyun mantığını kurduğum, futbol mekanikleri üzerine basit bir oyun çalışması.
 * 🍽️ **Masa Rezervasyon & Mini Oyunlar:** C# hakimiyetimi geliştirmek için yazdığım konsol tabanlı algoritma ve yönetim sistemleri.
-* 🌐 **Portfolio:** Kendi çalışmalarımı sergilemek için hazırladığım web arayüzü.
+
 
 ---
 
